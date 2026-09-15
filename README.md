@@ -8,7 +8,7 @@ Reports and lab work for ELECENG 2EI4 (McMaster University). Each folder contain
 |---|---|---|
 | [Project 1](./Project%201) | AC-to-DC Power Supply | Transformer, full-wave center-tapped rectifier, capacitive filter, and load design converting a 120V<sub>RMS</sub> AC source to a regulated ~3V DC output. |
 | [Project 2](./Project%202) | Voltage-Controlled Switch | Characterization of MOSFET-based switches (NMOS/PMOS pass-gate configurations), including ON resistance, leakage current, and bidirectional conduction testing. |
-| [Project 3](./Project%203) | *(video submission — see link below)* | |
+| [Project 3](./Project%203) | Small Signal Amplifier  | Constructed and designed a BJT-based small-signal amplifier with a common-collector topology that can amplify a 0.5V signal with an internal resistance of 100Ω to an equal load resistor. *(video submission — see link below)* |
 | [Project 4](./Project%204) | CMOS XOR Gate | Boolean-derived CMOS XOR circuit design, transistor sizing, and functional/timing verification on the AD3. |
 | [Project 5](./Project%205) | Digital-to-Analog Converter | 3-bit binary-weighted resistor DAC built from a summing amplifier and inverting stage, with gain error, DNL, and offset error characterization. |
 
