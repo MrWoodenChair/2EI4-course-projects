@@ -14,6 +14,8 @@ Reports and lab work for ELECENG 2EI4 (McMaster University). Each folder contain
 
 Project 3 was submitted as a video rather than a written report — [https://www.youtube.com/watch?v=o1kMwGOusts].
 
+Project 2 was not completely finished due to time constraints when doing the course. The physical data is not present; however, the outline for the design is detailed in the report
+
 ## Tools used
 
 - Analog Discovery 2/3 (AD2/AD3) for circuit construction, waveform generation, and measurement
